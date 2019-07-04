@@ -23,5 +23,6 @@ class Song
   end
   
   def self.artist_count
-    
+    artist_count = []
+    artist_count.each do 
 end
